@@ -43,7 +43,7 @@ Jupyter Notebook, Excel (сводные таблицы, формулы, визу
 
 **Email:** [adelholland2003@gmail.com](mailto:adelholland2003@gmail.com)  
 💼 **hh.ru / Telegram:** *https://hh.ru/resume/0e2e95afff0f6467770039ed1f4d61596f644e?from=share_ios / https://t.me/darrrrling*  
-🟢 **Статус занятости:** открыта к предложениям о работе или стажировке в сфере Data Science / Data Analytics
+🟢 **Статус занятости:** открыта к предложениям о работе в сфере Data Science / Data Analytics
 
 ---
 
